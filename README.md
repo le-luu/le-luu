@@ -42,6 +42,7 @@ I’ve also worked on automating workflows, analyzing web data, and creating dyn
 </a>
 
 ## 📫 Contact Me
-- **LinkedIn:** [(https://www.linkedin.com/in/le-luu-dev/)]
+- **LinkedIn:** [https://www.linkedin.com/in/le-luu-dev/](https://www.linkedin.com/in/le-luu-dev/)
 - **Email:** le.luu.dev@gmail.com
-- **Blog:** [(https://thedataschool.co.uk/blog/le-luu/)]
+- **Blog:** [https://thedataschool.co.uk/blog/le-luu/](https://thedataschool.co.uk/blog/le-luu/)
+
