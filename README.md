@@ -22,7 +22,9 @@ I’ve also worked on automating workflows, analyzing web data, and creating dyn
 <a href="https://www.credly.com/badges/fa0a080e-d8aa-45fe-b18c-10f58782968f">
   <img src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Analytics" width="100"/>
 </a>
-
+<a href="https://www.credly.com/badges/1adc346d-1d86-4ff3-8906-fe4f71ad3f30">
+  <img src="https://images.credly.com/size/680x680/images/70b7f41e-7711-426d-8e87-e6a7b14d3790/image.png" alt="Alteryx Machine Learning Fundamentals" width="100"/>
+</a>
 
 
 ## 📫 Contact Me
