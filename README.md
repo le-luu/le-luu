@@ -6,7 +6,7 @@ I’ve also worked on automating workflows, analyzing web data, and creating dyn
 
 ## 🚀 Skills
 - **Languages & Tools:** Python, SQL, R, Tableau, Alteryx, dbt, Snowflake, Django, HTML/CSS
-- **Data Analysis:** Build ETL, ELT pipeline, pull data from APIs, Webscrape data, Data Visualization, Machine Learning
+- **Data Analysis:** Build ETL, ELT pipeline, pull data from APIs, Webscrape data, Data Visualization, Machine Learning, Statistics (ANOVA)
 
 ## 📂 Featured Projects
 ### 🔹 [Project Name – Short Description](GitHubRepoLink)
@@ -14,10 +14,22 @@ I’ve also worked on automating workflows, analyzing web data, and creating dyn
 
 ### 🔹 [Tableau Dashboards Portfolio](https://public.tableau.com/app/profile/le.luu/vizzes)
 <a href="https://public.tableau.com/views/ProjectCOVID19inMexico2020-2021/Revised_COVID_Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-  <img src="https://github.com/le-luu/le-luu/blob/main/img/covid_19_initial_app.png?raw=true" alt="COVID-19 in Mexico 2020-2021" width="500"/>
+  <img src="https://github.com/le-luu/le-luu/blob/main/img/covid_19_initial_app.png?raw=true" alt="COVID-19 in Mexico 2020-2021" width="350" />
 </a>
 <a href="https://public.tableau.com/views/ProjectGiftTravelFillings/TDS_Final_Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-  <img src="https://github.com/le-luu/le-luu/blob/main/img/gift_travel_fillings.png?raw=true" alt="Gift Travel Fillings 2020-2022" width="500"/>
+  <img src="https://github.com/le-luu/le-luu/blob/main/img/gift_travel_fillings.png?raw=true" alt="Gift Travel Fillings 2020-2022" width="235"/>
+</a>
+<a href="https://public.tableau.com/views/DB1_Music_Movie_Survey_Analysis/SlovakianSurveyinMusicandMovie?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+  <img src="https://github.com/le-luu/le-luu/blob/main/img/Slovakian_in_music_movie.png?raw=true" alt="Slovakian in Music and Movie" width="214"/>
+</a>
+<a href="https://public.tableau.com/views/ANOVA_Diet_Report/ANOVAReport?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+  <img src="https://github.com/le-luu/le-luu/blob/main/img/ANOVA_Report.png?raw=true" alt="ANOVA Report" width="420"/>
+</a>
+<a href="https://public.tableau.com/views/cheese_dashboard_DB2/Cheese_DB2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+  <img src="https://github.com/le-luu/le-luu/blob/main/img/Cheese_world.png?raw=true" width="250"/>
+</a>
+<a href="https://public.tableau.com/app/profile/le.luu/viz/Bird_Data_Dashboard_W11/BirdWorldDashboard">
+  <img src="https://github.com/le-luu/le-luu/blob/main/img/Bird_World_Dashboard.png?raw=true" width="270"/>
 </a>
 
 ## 📝 Latest Blog Posts
