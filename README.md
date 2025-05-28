@@ -18,8 +18,8 @@ I’ve also worked on automating workflows, analyzing web data, and creating dyn
 ## 📝 Latest Blog Posts
 - [SQL-Python-Tableau Tips: Pivoting/ Unpivoting Data](https://thedataschool.co.uk/le-luu/sql-python-tableau-tips-pivoting-unpivoting-data/)
 
-## 🎙 Community Involvement
-
+## 📜 Certifications
+[![Google Analytics] (https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](https://www.credly.com/badges/fa0a080e-d8aa-45fe-b18c-10f58782968f)
 
 ## 📫 Contact Me
 - **LinkedIn:** [(https://www.linkedin.com/in/le-luu-dev/)]
