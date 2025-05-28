@@ -14,10 +14,11 @@ I’ve also worked on automating workflows, analyzing web data, and creating dyn
 
 ### 🔹 [Tableau Dashboards Portfolio](https://public.tableau.com/app/profile/le.luu/vizzes)
 <a href="https://public.tableau.com/views/ProjectCOVID19inMexico2020-2021/Revised_COVID_Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-  <img src="https://github.com/le-luu/le-luu/blob/main/img/covid_19_initial_app.png?raw=true" alt="COVID-19 in Mexico 2020-2021" width="600"/>
+  <img src="https://github.com/le-luu/le-luu/blob/main/img/covid_19_initial_app.png?raw=true" alt="COVID-19 in Mexico 2020-2021" width="500"/>
 </a>
-
-
+<a href="https://public.tableau.com/views/ProjectGiftTravelFillings/TDS_Final_Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+  <img src="https://github.com/le-luu/le-luu/blob/main/img/gift_travel_fillings.png?raw=true" alt="Gift Travel Fillings 2020-2022" width="500"/>
+</a>
 
 ## 📝 Latest Blog Posts
 - [SQL-Python-Tableau Tips: Pivoting/ Unpivoting Data](https://thedataschool.co.uk/le-luu/sql-python-tableau-tips-pivoting-unpivoting-data/)
