@@ -25,7 +25,21 @@ I’ve also worked on automating workflows, analyzing web data, and creating dyn
 <a href="https://www.credly.com/badges/1adc346d-1d86-4ff3-8906-fe4f71ad3f30">
   <img src="https://images.credly.com/size/680x680/images/70b7f41e-7711-426d-8e87-e6a7b14d3790/image.png" alt="Alteryx Machine Learning Fundamentals" width="100"/>
 </a>
-
+<a href="https://www.credly.com/badges/9870b91c-1647-4ce8-bffb-841ce0b64856">
+  <img src="https://images.credly.com/size/680x680/images/de87…-e667192c6f08/Certification_Designer_Advanced.png" alt="Alteryx Designer Advanced" width="100"/>
+</a>
+<a href="https://www.credly.com/badges/6cdccbf6-8cd5-44b5-a0ef-090c1dfdf6a7">
+  <img src="https://images.credly.com/size/680x680/images/1474…971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Designer Core" width="100"/>
+</a>
+<a href="https://www.credly.com/badges/4e973cab-8514-4293-88d1-03a3c0c79348">
+  <img src="https://images.credly.com/size/680x680/images/c97fcaf6-5ec1-4cc2-a549-3469f7942643/image.png" alt="Alteryx Designer Cloud Core" width="100"/>
+</a>
+<a href="https://www.credly.com/badges/83ae60c5-4059-4c93-ac0f-84e097fe8473">
+  <img src="https://images.credly.com/size/680x680/images/58b06a5f-aee6-4a11-ac53-da36d5f70e8e/image.png" alt="Tableau Data Analyst" width="100"/>
+</a>
+<a href="https://credentials.getdbt.com/20406734-93d9-4e6b-a9d7-29b297d16467">
+  <img src="https://templates.images.credential.net/16377649693790199922879811460604.png" alt="dbt Fundamentals" width="100"/>
+</a>
 
 ## 📫 Contact Me
 - **LinkedIn:** [(https://www.linkedin.com/in/le-luu-dev/)]
