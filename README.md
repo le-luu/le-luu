@@ -36,6 +36,9 @@ I’ve also worked on automating workflows, analyzing web data, and creating dyn
 - [SQL-Python-Tableau Tips: Pivoting/ Unpivoting Data](https://thedataschool.co.uk/le-luu/sql-python-tableau-tips-pivoting-unpivoting-data/)
 
 ## 📜 Certifications
+<a>
+  <img src="https://github.com/le-luu/le-luu/blob/main/img/2025%20Tableau%20Ambassador.png" alt="Tableau Ambassador 2025" width="100"/>
+</a>
 <a href="https://www.credly.com/badges/6cdccbf6-8cd5-44b5-a0ef-090c1dfdf6a7">
   <img src="https://images.credly.com/size/680x680/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Designer Core" width="100"/>
 </a>
