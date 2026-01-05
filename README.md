@@ -33,7 +33,25 @@ I’ve also worked on automating workflows, analyzing web data, and creating dyn
 </a>
 
 ## 📝 Latest Blog Posts
+### Tableau APIs
+- [Translating Field Names to Multiple Languages](https://thedataschool.co.uk/le-luu/translating-field-names-into-multiple-languages-in-tableau-desktop/)
+- [Extracting Data From API with Tableau Prep Builder](https://thedataschool.co.uk/le-luu/extracting-data-from-api-with-tableau-prep-builder/)
+- [Exploring VizQL Data Service - A First Look](https://thedataschool.co.uk/le-luu/exploring-vizql-data-service-a-first-look-at-the-developer-preview/)
+- 
+
+### Tableau Desktop
 - [SQL-Python-Tableau Tips: Pivoting/ Unpivoting Data](https://thedataschool.co.uk/le-luu/sql-python-tableau-tips-pivoting-unpivoting-data/)
+- [SQL-Python-Tableau Tips: Group By and Shift Row](https://thedataschool.co.uk/le-luu/sql-python-tableau-tips-1-group-by-and-shift-rows/)
+
+### Tableau Prep Builder
+- 
+
+### Snowflake
+- [Parsing JSON and Flattening Data in Snowflake](https://thedataschool.co.uk/le-luu/parsing-json-and-flattening-data-in-snowflake/)
+- 
+
+### Alteryx
+- [JSON Parse Tool in Alteryx 2024.2](https://thedataschool.co.uk/le-luu/json-parse-tool-in-alteryx-2024-2/)
 
 ## 📜 Certifications
 <a>
