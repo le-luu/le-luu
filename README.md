@@ -49,11 +49,18 @@ Le actively contributes to the data community through blogs and presentations at
 - [Translating Field Names to Multiple Languages](https://thedataschool.co.uk/le-luu/translating-field-names-into-multiple-languages-in-tableau-desktop/)
 - Extracting Data from API and Parse JSON in Tableau Desktop [Part 1](https://thedataschool.co.uk/le-luu/extracting-data-from-api-and-parse-json-in-tableau-desktop-part-1/), [Part 2](https://thedataschool.co.uk/le-luu/extracting-data-from-api-and-parse-json-in-tableau-desktop-part-2/)
 - [Exploring VizQL Data Service - A First Look](https://thedataschool.co.uk/le-luu/exploring-vizql-data-service-a-first-look-at-the-developer-preview/)
-- 
+- Run R Script in Tableau [Part 1](https://thedataschool.co.uk/le-luu/run-r-script-in-tableau-desktop/), [Part 2](https://thedataschool.co.uk/le-luu/run-r-script-in-tableau-part-2/)
+- [Import and Run Saved Python Functions in Tableau](https://thedataschool.co.uk/le-luu/writing/)
+- [Install TabPy and Run Python Script in Tableau](https://thedataschool.co.uk/le-luu/installing-tabpy-and-run-python-script-in-python/)
 
 ### Tableau Desktop
 - [SQL-Python-Tableau Tips: Pivoting/ Unpivoting Data](https://thedataschool.co.uk/le-luu/sql-python-tableau-tips-pivoting-unpivoting-data/)
 - [SQL-Python-Tableau Tips: Group By and Shift Row](https://thedataschool.co.uk/le-luu/sql-python-tableau-tips-1-group-by-and-shift-rows/)
+- [Translating Values to any Languages in Tableau Desktop](https://thedataschool.co.uk/le-luu/translating-values-to-many-languages-in-tableau-desktop/)
+- [3 Ways to Apply Python Script in Tableau Desktop](https://thedataschool.co.uk/le-luu/3-ways-to-apply-python-script-in-tableau-desktop/)
+- [Spatial in Tableau](https://thedataschool.co.uk/le-luu/spatial-in-tableau-2/)
+- [Change the Axis Range and Axis Title Dynamically](https://thedataschool.co.uk/le-luu/change-the-axis-range-and-axis-title-dynamically/)
+- [Color Data Points Dynamically in Tableau](https://thedataschool.co.uk/le-luu/color-data-points-dynamically-in-tableau/)
 
 ### Tableau Prep Builder
 - [Extracting Data From API with Tableau Prep Builder](https://thedataschool.co.uk/le-luu/extracting-data-from-api-with-tableau-prep-builder/)
@@ -62,15 +69,24 @@ Le actively contributes to the data community through blogs and presentations at
 ### Snowflake
 - [Parsing JSON and Flattening Data in Snowflake](https://thedataschool.co.uk/le-luu/parsing-json-and-flattening-data-in-snowflake/)
 - Optimizing Performance in SQL [Part 1](https://thedataschool.co.uk/le-luu/optimizing-the-sql-performance-part-1/), [Part 2](https://thedataschool.co.uk/le-luu/optimizing-sql-performance-part-2/)
+- [Order of Writing SQL Queries and Order of Execution in SQL](https://thedataschool.co.uk/le-luu/order-of-operations-and-order-of-execution-in-sql/)
+- Calculation in SQL and Tableau [Part 1](https://thedataschool.co.uk/le-luu/calculations-in-sql-and-tableau/), [Part 2](https://thedataschool.co.uk/le-luu/calculations-in-sql-and-tableau-part-2/)
+- [SQL Joins](https://thedataschool.co.uk/le-luu/sql-joins/)
 
 ### Alteryx
 - [Tile Tool in Alteryx - Equal Records](https://thedataschool.co.uk/le-luu/tile-tool-in-alteryx-equal-records/)
 - [Tile Tool in Alteryx - Equal Sum](https://thedataschool.co.uk/le-luu/tile-tool-in-alteryx-equal-sum/)
 - [JSON Parse Tool in Alteryx 2024.2](https://thedataschool.co.uk/le-luu/json-parse-tool-in-alteryx-2024-2/)
 - [Build a Batch Macro to Translate Text Data in Alteryx](https://thedataschool.co.uk/le-luu/build-a-batch-macro-to-translate-a-text-column/)
+- [Demographic Analysis in Alteryx](https://thedataschool.co.uk/le-luu/demographic-analysis-in-alteryx/)
+- Spatial Analytics in Alteryx [Part 1](https://thedataschool.co.uk/le-luu/spatial-in-alteryx-part-1/), [Part 2](https://thedataschool.co.uk/le-luu/spatial-analytics-in-alteryx-part-2/), [Part 3](https://thedataschool.co.uk/le-luu/spatial-analytics-in-alteryx-part-3/)
+- Analytics App in Alteryx [Part 1](https://thedataschool.co.uk/le-luu/app/), [Part 2](https://thedataschool.co.uk/le-luu/dfh/)
+- [Extracting Data from Image in Alteryx](https://thedataschool.co.uk/le-luu/extracting-data-text-from-an-image-file-in-alteryx/)
+- [Extracting Data from PDF file in Alteryx](https://thedataschool.co.uk/le-luu/extract-data-table-from-pdf-file-in-alteryx/)
+- Alteryx Macro [Part 1](https://thedataschool.co.uk/le-luu/macros-in-alteryx-part-1/), [Part 2](https://thedataschool.co.uk/le-luu/macro-in-alteryx-part-2/)
 
 ### Power BI
-
+- Calculations in Power BI and Tableau [Part 1](https://thedataschool.co.uk/le-luu/dax-in-power-bi-and-lods-in-tableau/), [Part 2](https://thedataschool.co.uk/le-luu/calculations-in-power-bi-and-tableau-part-2/)
 ## 📜 Certifications
 <a>
   <img src="https://github.com/le-luu/le-luu/blob/main/img/2025%20Tableau%20Ambassador.png" alt="Tableau Ambassador 2025" width="100"/>
