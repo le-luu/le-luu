@@ -47,7 +47,7 @@ Le actively contributes to the data community through blogs and presentations at
 
 ### Tableau APIs
 - [Translating Field Names to Multiple Languages](https://thedataschool.co.uk/le-luu/translating-field-names-into-multiple-languages-in-tableau-desktop/)
-- [Extracting Data from API and Parse JSON in Tableau Desktop](https://thedataschool.co.uk/le-luu/extracting-data-from-api-and-parse-json-in-tableau-desktop-part-1/)
+- Extracting Data from API and Parse JSON in Tableau Desktop [Part 1](https://thedataschool.co.uk/le-luu/extracting-data-from-api-and-parse-json-in-tableau-desktop-part-1/), [Part 2](https://thedataschool.co.uk/le-luu/extracting-data-from-api-and-parse-json-in-tableau-desktop-part-2/)
 - [Exploring VizQL Data Service - A First Look](https://thedataschool.co.uk/le-luu/exploring-vizql-data-service-a-first-look-at-the-developer-preview/)
 - 
 
@@ -57,15 +57,17 @@ Le actively contributes to the data community through blogs and presentations at
 
 ### Tableau Prep Builder
 - [Extracting Data From API with Tableau Prep Builder](https://thedataschool.co.uk/le-luu/extracting-data-from-api-with-tableau-prep-builder/)
+- [Extracting Words and Count Their Frequency in Tableau Prep](https://thedataschool.co.uk/le-luu/extracting-words-and-count-their-frequency-from-sentences-in-tableau-prep/)
 
 ### Snowflake
 - [Parsing JSON and Flattening Data in Snowflake](https://thedataschool.co.uk/le-luu/parsing-json-and-flattening-data-in-snowflake/)
-- 
+- Optimizing Performance in SQL [Part 1](https://thedataschool.co.uk/le-luu/optimizing-the-sql-performance-part-1/), [Part 2](https://thedataschool.co.uk/le-luu/optimizing-sql-performance-part-2/)
 
 ### Alteryx
 - [Tile Tool in Alteryx - Equal Records](https://thedataschool.co.uk/le-luu/tile-tool-in-alteryx-equal-records/)
 - [Tile Tool in Alteryx - Equal Sum](https://thedataschool.co.uk/le-luu/tile-tool-in-alteryx-equal-sum/)
 - [JSON Parse Tool in Alteryx 2024.2](https://thedataschool.co.uk/le-luu/json-parse-tool-in-alteryx-2024-2/)
+- [Build a Batch Macro to Translate Text Data in Alteryx](https://thedataschool.co.uk/le-luu/build-a-batch-macro-to-translate-a-text-column/)
 
 ### Power BI
 
