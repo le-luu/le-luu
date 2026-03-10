@@ -1,12 +1,17 @@
 # 👋 Hi there, I'm Le Luu!
 
 ## 👨‍💻 About Me
-I'm a data analytics consultant with a background in Computer Science from UC Davis. I specialize in Python, SQL, Alteryx, and Tableau, and love turning complex data into clear insights. 
-I’ve also worked on automating workflows, analyzing web data, and creating dynamic dashboards.
+Le is a Data Analytics Consultant with a Bachelor of Science in Computer Science from UC Davis (2021). He has a strong foundation in database systems, machine learning, and artificial intelligence, with a passion for data engineering and analytics.
+
+Le gained hands-on experience at The Data School New York, working with tools such as Tableau, Tableau Prep Builder, and Alteryx to clean, transform, and analyze data while optimizing performance for large datasets. To expand his data engineering skills, Le completed a Data Engineering training program at The Information Lab, where he built ELT data pipelines using Python, SQL, dbt, and Kestra.
+
+In 2025, Le was recognized as a Tableau DataDev Ambassador and became a winner of the Tableau DataDev Hackathon 2025.
+
+Le actively contributes to the data community through blogs and presentations at Tableau Prep and Alteryx User Groups, sharing knowledge on SQL, Python, Tableau, Alteryx, performance optimization, and extracting data from APIs and web pages.
 
 ## 🚀 Skills
 - **Languages & Tools:** Python, SQL, R, Tableau, Alteryx, dbt, Snowflake, Django, HTML/CSS
-- **Data Analysis:** Build ETL, ELT pipeline, pull data from APIs, Webscrape data, Data Visualization, Machine Learning, Statistics (ANOVA)
+- **Data Analysis:** Build ETL, ELT pipeline, pull data from APIs, Webscrape data, Data Visualization, Machine Learning, Statistics (ANOVA), Tableau APIs
 
 ## 📂 Featured Projects
 ### 🔹 [Project Name – Short Description](GitHubRepoLink)
@@ -33,9 +38,16 @@ I’ve also worked on automating workflows, analyzing web data, and creating dyn
 </a>
 
 ## 📝 Latest Blog Posts
+
+### Data Engineering 
+- [Orchestration and Trigger Setup](https://thedataschool.co.uk/le-luu/des-orchestration-and-trigger-setup/)
+- [Data Engineering Lifecycle](https://thedataschool.co.uk/le-luu/des/)
+- [Data Integration (ETL, ELT, Reverse ETL)](https://thedataschool.co.uk/le-luu/des-data-integration-etl-elt-reverse-etl/)
+- [A Guide to Modern Data Roles](https://thedataschool.co.uk/le-luu/des-a-guide-to-modern-data-roles/)
+
 ### Tableau APIs
 - [Translating Field Names to Multiple Languages](https://thedataschool.co.uk/le-luu/translating-field-names-into-multiple-languages-in-tableau-desktop/)
-- [Extracting Data From API with Tableau Prep Builder](https://thedataschool.co.uk/le-luu/extracting-data-from-api-with-tableau-prep-builder/)
+- [Extracting Data from API and Parse JSON in Tableau Desktop](https://thedataschool.co.uk/le-luu/extracting-data-from-api-and-parse-json-in-tableau-desktop-part-1/)
 - [Exploring VizQL Data Service - A First Look](https://thedataschool.co.uk/le-luu/exploring-vizql-data-service-a-first-look-at-the-developer-preview/)
 - 
 
@@ -44,14 +56,18 @@ I’ve also worked on automating workflows, analyzing web data, and creating dyn
 - [SQL-Python-Tableau Tips: Group By and Shift Row](https://thedataschool.co.uk/le-luu/sql-python-tableau-tips-1-group-by-and-shift-rows/)
 
 ### Tableau Prep Builder
-- 
+- [Extracting Data From API with Tableau Prep Builder](https://thedataschool.co.uk/le-luu/extracting-data-from-api-with-tableau-prep-builder/)
 
 ### Snowflake
 - [Parsing JSON and Flattening Data in Snowflake](https://thedataschool.co.uk/le-luu/parsing-json-and-flattening-data-in-snowflake/)
 - 
 
 ### Alteryx
+- [Tile Tool in Alteryx - Equal Records](https://thedataschool.co.uk/le-luu/tile-tool-in-alteryx-equal-records/)
+- [Tile Tool in Alteryx - Equal Sum](https://thedataschool.co.uk/le-luu/tile-tool-in-alteryx-equal-sum/)
 - [JSON Parse Tool in Alteryx 2024.2](https://thedataschool.co.uk/le-luu/json-parse-tool-in-alteryx-2024-2/)
+
+### Power BI
 
 ## 📜 Certifications
 <a>
