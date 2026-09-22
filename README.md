@@ -87,10 +87,12 @@ Le actively contributes to the data community through blogs and presentations at
 
 ### Power BI
 - Calculations in Power BI and Tableau [Part 1](https://thedataschool.co.uk/le-luu/dax-in-power-bi-and-lods-in-tableau/), [Part 2](https://thedataschool.co.uk/le-luu/calculations-in-power-bi-and-tableau-part-2/)
+  
 ## 📜 Certifications
-<a>
+<p>
   <img src="https://github.com/le-luu/le-luu/blob/main/img/2025%20Tableau%20Ambassador.png" alt="Tableau Ambassador 2025" width="100"/>
-</a>
+  <img src="https://github.com/le-luu/le-luu/blob/main/img/TUG%20Badge%20A%2026%20FINAL.png.png" alt="Tableau DataDev Co-Leader 2026" width="100"/>
+</p>
 <a href="https://www.credly.com/badges/6cdccbf6-8cd5-44b5-a0ef-090c1dfdf6a7">
   <img src="https://images.credly.com/size/680x680/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Designer Core" width="100"/>
 </a>
