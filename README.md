@@ -73,6 +73,11 @@ My solutions to the monthly [DataDevQuest](https://datadevquest.com/) challenges
   <img src="https://github.com/le-luu/le-luu/blob/main/img/Bird_World_Dashboard.png?raw=true" width="270"/>
 </a>
 
+<a href="https://public.tableau.com/app/profile/le.luu/viz/Wow_tracking_challenges/WOWTableauTracker_copy">
+  <img src="https://github.com/le-luu/le-luu/blob/main/img/WOW_Tableau_CICD.png?raw=true" width="270"/>
+</a>
+
+
 ## 📝 Latest Blog Posts
 
 ### Data Engineering 
