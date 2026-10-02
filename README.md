@@ -28,11 +28,12 @@ The project builds a bronze, silver, and gold ETL pipeline on Databricks for New
 
 ### 🔹 Data Engineering Projects
 - [**Workout Wednesday Challenges Tracker**](https://github.com/le-luu/WOW_Tracking_Project) – An automated ETL pipeline that web scrapes the Workout Wednesday challenges with Selenium, loads them incrementally into MotherDuck, and refreshes a Tableau Public dashboard every week with GitHub Actions.
-- [**Tableau DataDev Hackathon 2025 – Temperature Forecasting**](https://github.com/le-luu/datadev_hackathon2025) `Winner`– Pull weather data from an API, publish it to Tableau Cloud with the Hyper API and Tableau Server Client, and forecast the temperature in Tableau Desktop with a Machine Learning model deployed on TabPy.
 - [**Amplitude Extract and Load**](https://github.com/le-luu/amplitude_des5_project) – Extract event data from the Amplitude Export API, unzip and decompress it to JSON, and load it to Amazon S3 with logging, error handling, and missing-file checks.
 - [**Bike Point**](https://github.com/le-luu/bike_point_project) – Extract London bike point data from the TfL BikePoint API with retry logic, error handling, and logging.
 
-### 🔹 DataDevQuest Challenges
+<details>
+<summary><h3>🔹 DataDevQuest Challenges</h3></summary>
+
 My solutions to the monthly [DataDevQuest](https://datadevquest.com/) challenges on Tableau developer tools and APIs.
  
 - [**DataDevQuest 2026-02 – Bulk Add Users**](https://github.com/le-luu/DataDevQuest_2026_02) `REST API` – Add, remove, and update users and their group assignments on Tableau Cloud in bulk from a CSV file with Tableau Server Client in Python.
@@ -44,14 +45,22 @@ My solutions to the monthly [DataDevQuest](https://datadevquest.com/) challenges
 - [**DataDevQuest 2025-03 – Query a Published Data Source**](https://github.com/le-luu/DataDevQuest_2025_03) `VizQL Data Service` – Query a published data source through VizQL Data Service using filters, Top N, and context filters.
 - [**DataDevQuest 2024-10 – Find a View by Name**](https://github.com/le-luu/DataDevQuest_Challenges/tree/main/Challenge_1) `REST API` – A Python program that uses Tableau Server Client to search for a view by name on Tableau Server/Cloud and display its details.
 
-### 🔹 Tableau Developer Projects
+</details>
+
+<details>
+<summary><h3>🔹 Tableau Developer Projects</h3></summary>
 
 - [**Published Datasource Management**](https://github.com/le-luu/datasource_management) – Retrieve the field names, formulas, data types, and default aggregations of published data sources with the Tableau Metadata API to help write VizQL Data Service queries.
 
-### 🔹 SQL & Python Practice
+</details>
+
+<details>
+<summary><h3>🔹 SQL &amp; Python Practice</h3></summary>
 
 - [**Advent of SQL 2024**](https://github.com/le-luu/advent_of_sql_2024) – My solutions to the daily Advent of SQL challenges in December 2024.
 - [**Python Practice with Alteryx Challenges**](https://github.com/le-luu/python_practice) – Solve the data preparation tasks from Alteryx challenges with Python in Jupyter Notebook.
+
+</details>
 
 ### 🔹 [Tableau Dashboards Portfolio](https://public.tableau.com/app/profile/le.luu/vizzes)
 <a href="https://public.tableau.com/views/ProjectCOVID19inMexico2020-2021/Revised_COVID_Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
@@ -78,7 +87,8 @@ My solutions to the monthly [DataDevQuest](https://datadevquest.com/) challenges
 </a>
 
 
-## 📝 Latest Blog Posts
+<details>
+<summary><h2>📝 Latest Blog Posts</h2></summary>
 
 ### Data Engineering 
 - [Orchestration and Trigger Setup](https://thedataschool.co.uk/le-luu/des-orchestration-and-trigger-setup/)
@@ -128,7 +138,9 @@ My solutions to the monthly [DataDevQuest](https://datadevquest.com/) challenges
 
 ### Power BI
 - Calculations in Power BI and Tableau [Part 1](https://thedataschool.co.uk/le-luu/dax-in-power-bi-and-lods-in-tableau/), [Part 2](https://thedataschool.co.uk/le-luu/calculations-in-power-bi-and-tableau-part-2/)
-  
+
+</details>
+
 ## 📜 Certifications
 <p>
   <img src="https://github.com/le-luu/le-luu/blob/main/img/2025%20Tableau%20Ambassador.png" alt="Tableau Ambassador 2025" width="100"/>
@@ -160,4 +172,3 @@ My solutions to the monthly [DataDevQuest](https://datadevquest.com/) challenges
 - **LinkedIn:** [https://www.linkedin.com/in/le-luu-dev/](https://www.linkedin.com/in/le-luu-dev/)
 - **Email:** le.luu.dev@gmail.com
 - **Blog:** [https://thedataschool.co.uk/blog/le-luu/](https://thedataschool.co.uk/blog/le-luu/)
-
