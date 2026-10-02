@@ -17,8 +17,9 @@ Le actively contributes to the data community through blogs and presentations at
 ### 🔹 [Project Name – Short Description](GitHubRepoLink)
 
 ### 🔹 Data Engineering Projects
+- [**DSNY Databricks Hackathon 2026 – The Data Masons**](https://github.com/LilyKizir/DSNY-DataBricks-Hackathon-2026) – A team project that builds a bronze, silver, and gold ETL pipeline on Databricks for New York electricity and weather data, where Databricks Genie Agent and Claude Code turn a plain-English question into a tested gold model and a Tableau workbook, published with GitHub Actions.
 - [**Workout Wednesday Challenges Tracker**](https://github.com/le-luu/WOW_Tracking_Project) – An automated ETL pipeline that web scrapes the Workout Wednesday challenges with Selenium, loads them incrementally into MotherDuck, and refreshes a Tableau Public dashboard every week with GitHub Actions.
-- [**Tableau DataDev Hackathon 2025 – Temperature Forecasting**](https://github.com/le-luu/datadev_hackathon2025) – Pull weather data from an API, publish it to Tableau Cloud with the Hyper API and Tableau Server Client, and forecast the temperature in Tableau Desktop with a Machine Learning model deployed on TabPy.
+- [**Tableau DataDev Hackathon 2025 – Temperature Forecasting**](https://github.com/le-luu/datadev_hackathon2025) `Winner`– Pull weather data from an API, publish it to Tableau Cloud with the Hyper API and Tableau Server Client, and forecast the temperature in Tableau Desktop with a Machine Learning model deployed on TabPy.
 - [**Amplitude Extract and Load**](https://github.com/le-luu/amplitude_des5_project) – Extract event data from the Amplitude Export API, unzip and decompress it to JSON, and load it to Amazon S3 with logging, error handling, and missing-file checks.
 - [**Bike Point**](https://github.com/le-luu/bike_point_project) – Extract London bike point data from the TfL BikePoint API with retry logic, error handling, and logging.
 
