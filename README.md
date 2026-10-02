@@ -16,6 +16,32 @@ Le actively contributes to the data community through blogs and presentations at
 ## 📂 Featured Projects
 ### 🔹 [Project Name – Short Description](GitHubRepoLink)
 
+### 🔹 Data Engineering Projects
+- [**Workout Wednesday Challenges Tracker**](https://github.com/le-luu/WOW_Tracking_Project) – An automated ETL pipeline that web scrapes the Workout Wednesday challenges with Selenium, loads them incrementally into MotherDuck, and refreshes a Tableau Public dashboard every week with GitHub Actions.
+- [**Tableau DataDev Hackathon 2025 – Temperature Forecasting**](https://github.com/le-luu/datadev_hackathon2025) – Pull weather data from an API, publish it to Tableau Cloud with the Hyper API and Tableau Server Client, and forecast the temperature in Tableau Desktop with a Machine Learning model deployed on TabPy.
+- [**Amplitude Extract and Load**](https://github.com/le-luu/amplitude_des5_project) – Extract event data from the Amplitude Export API, unzip and decompress it to JSON, and load it to Amazon S3 with logging, error handling, and missing-file checks.
+- [**Bike Point**](https://github.com/le-luu/bike_point_project) – Extract London bike point data from the TfL BikePoint API with retry logic, error handling, and logging.
+
+### 🔹 DataDevQuest Challenges
+My solutions to the monthly [DataDevQuest](https://datadevquest.com/) challenges on Tableau developer tools and APIs.
+ 
+- [**DataDevQuest 2026-02 – Bulk Add Users**](https://github.com/le-luu/DataDevQuest_2026_02) `REST API` – Add, remove, and update users and their group assignments on Tableau Cloud in bulk from a CSV file with Tableau Server Client in Python.
+- [**DataDevQuest 2025-11 – Claude Desktop and Python Terminal Chat**](https://github.com/le-luu/DataDevQuest_2025_11) `Tableau MCP` – Set up Tableau MCP with Claude Desktop and build a terminal chat in Python to ask AI for insights from Tableau Cloud.
+- [**DataDevQuest 2025-09 – Embed Tableau Content**](https://github.com/le-luu/DataDevQuest_2025_09) `Embedding API` – Embed a Tableau dashboard in a webpage and handle user interactions with JavaScript event listeners.
+- [**DataDevQuest 2025-07 – Query Workbook Details**](https://github.com/le-luu/DataDevQuest_2025_07) `Metadata API` – Write GraphQL queries with filters, variables, and pagination to retrieve workbook details, then parse and flatten the JSON response in Python.
+- [**DataDevQuest 2025-06 – Job Search API Dashboard**](https://github.com/le-luu/DataDevQuest_2025_06) `Table Extensions` – Fetch live job data from an API with Python in a Table Extension and build an interactive dashboard driven by dynamic parameters.
+- [**DataDevQuest 2025-05 – Convert Excel to Hyper Files**](https://github.com/le-luu/DataDevQuest_2025_05) `Hyper API` – Convert Excel files to Hyper files with the Tableau Hyper API and Pantab, and compare their read, write, and SQL query speed.
+- [**DataDevQuest 2025-03 – Query a Published Data Source**](https://github.com/le-luu/DataDevQuest_2025_03) `VizQL Data Service` – Query a published data source through VizQL Data Service using filters, Top N, and context filters.
+- [**DataDevQuest 2024-10 – Find a View by Name**](https://github.com/le-luu/DataDevQuest_Challenges/tree/main/Challenge_1) `REST API` – A Python program that uses Tableau Server Client to search for a view by name on Tableau Server/Cloud and display its details.
+
+### 🔹 Tableau Developer Projects
+
+- [**Published Datasource Management**](https://github.com/le-luu/datasource_management) – Retrieve the field names, formulas, data types, and default aggregations of published data sources with the Tableau Metadata API to help write VizQL Data Service queries.
+
+### 🔹 SQL & Python Practice
+
+- [**Advent of SQL 2024**](https://github.com/le-luu/advent_of_sql_2024) – My solutions to the daily Advent of SQL challenges in December 2024.
+- [**Python Practice with Alteryx Challenges**](https://github.com/le-luu/python_practice) – Solve the data preparation tasks from Alteryx challenges with Python in Jupyter Notebook.
 
 ### 🔹 [Tableau Dashboards Portfolio](https://public.tableau.com/app/profile/le.luu/vizzes)
 <a href="https://public.tableau.com/views/ProjectCOVID19inMexico2020-2021/Revised_COVID_Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
