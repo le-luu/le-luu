@@ -14,9 +14,6 @@ Le actively contributes to the data community through blogs and presentations at
 - **Data Analysis:** Build ETL, ELT pipeline, pull data from APIs, Webscrape data, Data Visualization, Machine Learning, Statistics (ANOVA), Tableau APIs
 
 ## 📂 Featured Projects
-### 🔹 [Project Name – Short Description](GitHubRepoLink)
-
-## 📂 Featured Projects
 ### 🏆 Winner – Tableau DataDev Hackathon 2025
 **[Forecasting Temperature in New York](https://devpost.com/software/forecasting-temperature-in-new-york)** won the *Best Hack Using the Broadest Set of Salesforce Products* award.
  
