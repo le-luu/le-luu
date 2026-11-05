@@ -21,10 +21,6 @@ The project pulls weather data from an API, publishes it to Tableau Cloud with t
  
 🏅 [Devpost submission](https://devpost.com/software/forecasting-temperature-in-new-york) &nbsp;|&nbsp; 💻 [GitHub repo](https://github.com/le-luu/datadev_hackathon2025)
 
-### 🥉 3rd Place – DSNY Databricks Hackathon 2026
-**[The Data Masons](https://github.com/LilyKizir/DSNY-DataBricks-Hackathon-2026)** – a team project that took 3rd place.
- 
-The project builds a bronze, silver, and gold ETL pipeline on Databricks for New York electricity and weather data, where Databricks Genie and Claude Code turn a plain-English question into a tested gold model and a Tableau workbook, published with GitHub Actions.
 
 ### 🔹 Data Engineering Projects
 - [**Workout Wednesday Challenges Tracker**](https://github.com/le-luu/WOW_Tracking_Project) – An automated ETL pipeline that web scrapes the Workout Wednesday challenges with Selenium, loads them incrementally into MotherDuck, and refreshes a Tableau Public dashboard every week with GitHub Actions.
